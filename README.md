@@ -12,7 +12,7 @@ sudo apt-get install ros-melodic-gazebo-ros-pkgs ros-melodic-gazebo-ros-control
 ```
 down load source file
 ```
-git clone https://github.com/kaistcapstone/capstone1_ROS_gazebo
+git clone https://github.com/kaistcapstone/capstone2_ROS_gazebo
 ```
 build the code
 ```
