@@ -1,0 +1,13 @@
+material sign
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ../texture/stop.png
+      }
+    }
+  }
+}

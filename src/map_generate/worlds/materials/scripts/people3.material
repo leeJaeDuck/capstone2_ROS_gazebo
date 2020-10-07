@@ -1,0 +1,13 @@
+material people3
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ../texture/people3.png
+      }
+    }
+  }
+}

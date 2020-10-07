@@ -1,0 +1,13 @@
+material cat
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ../texture/cat.png
+      }
+    }
+  }
+}
