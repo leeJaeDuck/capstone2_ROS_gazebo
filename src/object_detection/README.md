@@ -15,7 +15,7 @@ After you install all the packages related to pytorch and torchvision, you shoul
 
 ### Execution
 
-    $ rosrun object detection
+    $ rosrun object_detection yolo_detection.py
 
 topic name : /yolo_result
 
